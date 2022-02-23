@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The City-vvifes petition against coffee presented to the publick consideration, the grand inconveniencies that accrue to their sex, from the excessive drinking of that drying and enfeebling liquor : to the Right Honourable, the worshipful court of female assistants, the humble petition and address of several thousand of buxome good vvomen, languishing in extremity of want.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33196</idno>
+            <idno type="STC">Wing C4362A</idno>
+            <idno type="STC">ESTC R19334</idno>
+            <idno type="EEBO-CITATION">12220405</idno>
+            <idno type="OCLC">ocm 12220405</idno>
+            <idno type="VID">56388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 135:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The City-vvifes petition against coffee presented to the publick consideration, the grand inconveniencies that accrue to their sex, from the excessive drinking of that drying and enfeebling liquor : to the Right Honourable, the worshipful court of female assistants, the humble petition and address of several thousand of buxome good vvomen, languishing in extremity of want.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.VV.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:56388:1"/>
+            <head>THE City-VVifes PETITION, AGAINST COFFEE Preſented to the Publick Conſideration, the Grand <hi>Inconveniencies</hi> that accrue to their SEX, from the Exceſſive Drinking of that Drying, and Enfeebling <hi>LIQ<g ref="char:V">Ʋ</g>OR.</hi>
+            </head>
+            <head type="sub">
+               <hi>To the Right Honourable, the Worſhipfull Court of</hi> Female. Aſſiſtants, The humble Petition and Addreſs of ſeveral Thouſands of Buxome Good VVomen, Languiſhing in Extremity of want.</head>
+            <opener>Sheweth.</opener>
+            <p>THat ſince 'tis Reckon'd amongſt the Glories of Our Native Country; To be a <hi>Paradiſe for Women:</hi> The ſame in our Apprehenſions can conſiſt in nothing more than the brick <hi>actvity</hi> of our Men, who in former Ages were juſtly eſteemed the <hi>Ableſt performers</hi> in Chriſtendom; But to our unſpeakable Grief, we find of late a very ſenſible <hi>decay</hi> of that true <hi>Old Engliſh Valour;</hi> Our <hi>Gallants,</hi> being every way ſo <hi>Frenchified,</hi> that they are become meer Cuck ſparrows flattering things that come on <hi>Sa ſa,</hi> with a world of Fury, but are not able to <hi>ſtand</hi> to it, and in the very firſt Charge fall down <hi>flat</hi> before us. Never did Men wear <hi>greater Breeches,</hi> or carry leſs in them of any <hi>Mettle</hi> whatſoever. There was a glorious Diſpenſation ('twas lutely in the Golden Age) when <hi>Luſty Lads</hi> of <hi>ſeven</hi> or <hi>eight hundred</hi> years old,<hi>Got</hi> Sons and Daughters; and we have read, how a Prince of <hi>Spain</hi> was forced to make a Law that Men ſhould not Repeat the <hi>Grand Kindneſs</hi> to their wives, above <hi>Nine</hi> times in a night: But alas! alas! thoſe for<g ref="char:EOLunhyphen"/>ward Days are gone, the dull <hi>Lubbards</hi> want a <hi>Spur</hi> now, rather than a <hi>Bridle</hi> be<g ref="char:EOLhyphen"/>ing ſo far from doing any works of <hi>Supererrogation,</hi> that we find them not capable of performing thoſe Devoirs which their <hi>Duty</hi> and our <hi>Expectations</hi> Exact.</p>
+            <p>The Occaſion of Inſufferable <hi>Diſaſter,</hi> alter a ſerious Enquiry, and Diſcuſ<g ref="char:EOLhyphen"/>ſion
+<pb facs="tcp:56388:2"/>of the point by the Learned of the <hi>Faculty,</hi> we can attribute to nothing more than the Exceſſive uſe of that newfangled, abominable, heatheniſh Liquor called <hi>Coffee,</hi> which R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Nature of her choiceſt <hi>Treaſurs,</hi> and <hi>drying</hi> up the <hi>Radical Moiſture,</hi> has ſo <hi>Eunucht</hi> our Husbands, and <hi>Crippled</hi> our more kind <hi>Gallants,</hi> that they are become as <hi>Impotent,</hi> as Age, and as unfruitfull as thoſe <hi>Deſarts,</hi> whence that unhappy <hi>Berr,</hi> is ſaid to be brought.</p>
+            <p>For the continual ſipping of this pittiful Drink, is enough to <hi>bewitch</hi> Men of two and twenty, and tie up the <hi>Codpice point</hi> without a G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. It renders them that uſe it as <hi>Lean</hi> as Famine, as Riwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d as <hi>Envy,</hi> or an old meager Hagg over<g ref="char:EOLhyphen"/>ridden by an Incubus. They come from it with nothing <hi>moiſt</hi> but their ſnotty Noſes, nothing <hi>ſtiff</hi> but their Joints, nor <hi>ſtanding</hi> but their Ears: They pretend 'twill keep them <hi>walking,</hi> but we find by ſcurvy Experience, they <hi>ſleep quietly</hi> e<g ref="char:EOLhyphen"/>nough after it. A Betrothed <hi>Queen</hi> might truſt her ſelf a Bed with one of them: nor can all the Art we uſe revive them from this Lethargy, ſo unfit they are for Action, that like young Train-band-men when called upon duty, their <hi>Amuni<g ref="char:EOLhyphen"/>tion</hi> is wanting: peradventure they <hi>preſent,</hi> but cannot give <hi>fire,</hi> or at leaſt but <hi>flaſh in the Pan,</hi> inſtead of doing Execution.</p>
+            <p>Now let any Doating Superſtitious <hi>Cato</hi>'s ſhake their Goatiſh <hi>Beards,</hi> and tax us of <hi>Immodeſty</hi> for this Declaration, ſince 'tis a publick Grievance, and cries aloud for Reformation <hi>weight</hi> and <hi>Meaſure,</hi> 'tis well known, ſhould be throughout the World, and there is no torment like Famiſhment. Experience wîtneſſes our Damage, and Neceſſity (which eaſily ſapercedes all the Laws of Decency) juſti<g ref="char:EOLhyphen"/>fie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our complaints: For can any Woman of <hi>ſenſe</hi> or <hi>ſpirit</hi> endure with Patience, that when privileg'd by Legal Ceremonies, ſhe approaches the Nuptial Bed, ex<g ref="char:EOLhyphen"/>pecting a Man that with <hi>ſprightful</hi> Embraces, ſhould Anſwer the Vigour of her Flames, ſhe on the contrary ſhould only meet <hi>A Bed full of bones,</hi> and hug me a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ger uſeleſs Crops rendred as <hi>ſapleſs</hi> as a <hi>Kix,</hi> and <hi>dryer</hi> than a <hi>Pumice-Stone,</hi> by the perpetual Fumes of <hi>Tobacco,</hi> and bewitching Effects of this moſt pernitious <hi>Coffee,</hi> whereby Nature is <hi>Enfeebled,</hi> the Offſpring of our Mighty Anceſtors <hi>Dwindled</hi> into a Succeſſion of <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> and <hi>Pignies:</hi> And.</p>
+            <q>
+               <l>— The Age of Man.</l>
+               <l>Now Cramp't into an Inch, that was a Span.</l>
+            </q>
+            <p>Now is this (though more than enough) all the ground of our complaint: For beſides, we have reaſon to apprehend and grow <hi>Jealows,</hi> That Men by fre<g ref="char:EOLhyphen"/>quenting theſe <hi>Stygian Tap: houſes</hi> will uſurp on our Prerogative of <hi>Tatling,</hi> and ſoon learn to excell us in <hi>Talkativeneſs:</hi> a Quality wherein our Sex has ever claimed preheminence: For here like ſo many <hi>Frogs</hi> in a <hi>puddle,</hi> they ſup up muddy Water, and murmur inſignificant Notes till half a Dozen of them out <hi>babble</hi> an equal number of us at <hi>Goſſipping,</hi> talking all at once in confuſion, and runing from point to point as inſenſibly, and as ſwiftly, as ever the Ingenious
+<pb facs="tcp:56388:2"/>
+               <hi>Pole wheel</hi> could run diviſions on the Baſe-Viol; Yet in all their Prattle, eve<g ref="char:EOLhyphen"/>ry one abounds in his own Senſe, as ſtifly as G. K. did at the late Diſpute at <hi>Turners Hall,</hi> and ſubmits to the Reaſons of no other Mortal: So that there being neither Moderator nor Rules obſerved, you may as ſoon fill a Quart Pot with <hi>Syllogiſms,</hi> as profit by their Diſcourſes.</p>
+            <p>Certainly our Country-mens Pallats are become as Fanatical as their Brains; How elſe is it poſſible, they ſhould Apoſtatize from the good old Primitive way of Ale drinking, to run a Whoring after ſuch Variety of Deſtructive Forreign Liquors, to triffle away their Time: Scald their <hi>Chaps,</hi> and ſpend their Money all for a little <hi>Baſe, Black, Thick, Naſty, Bitter, Stink<g ref="char:EOLhyphen"/>ing, Nauſeous</hi> Puddle-Water: Yet (as all Witches have their Charms) So this ugly <hi>Turkiſh</hi> Enchantreſs by certain Inviſible Wyres attracks both Rich and Poor; So that thoſe that have ſcarce Two-pence to buy their Childrens Bread, muſt ſpend a Penny each Evening in this <hi>Inſipid</hi> Stuff. Nor can we ſend one of our Husbands to call <hi>a Midwife,</hi> or to borrow a <hi>Gliſter-Pipe,</hi> but he muſt ſtay an Hour by the way, Drinking his two <hi>Diſhes;</hi> and two Pipes.</p>
+            <p>At theſe Houſes, (as at the Springs in <hi>Africk</hi>) meet all Sorts of Animals, whence follows the Production of a Thouſand Monſter Opinions and Abſurdi<g ref="char:EOLhyphen"/>ties; Yet for being dangerous to the Government, we dare be their Com<g ref="char:EOLhyphen"/>purgators, as well knowing them to be too Tame and too Talkative to make any Deſperate Polititians: For though they may now and than Deſtroy a Fleet, or kill ten Thouſand of the <hi>Turks,</hi> more than all the Confeder<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> can do, Yet this is ſtill in their politick Capacities, for by their perſonal <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lour they are ſcarce fit to be of the Life Guard to a Cherry Tree: And therefore, though they frequently have not Conteſts about moſt Important Subjects; Whether the Great Turk be a <hi>Lutheran</hi> or <hi>Calviniſt,</hi> Who <hi>Cain</hi>'s Father in Law was, <hi>&amp;c</hi> Yet they never fight about them with any other, ſave our Weapon, the Tongue.</p>
+            <p>Some of our Sots pretend tippling of this boiled Soot cures them of being Drunk; but we have reaſon rather to Conclude it makes them ſo, becauſe we find them not able to ſtand after it: 'Tis at beſt but a kind of Earthing a Fox to Hunt him more eagerly afterward: A rare Method of Good Husbandry; to enable a Man to be Drunk three times a Day? Juſt ſuch a Remedy for Drunkenneſs, as the Popes allowing of Stews, is a means to prevent Fornication: The Coffee-Houſe being in Truth, only a Pimp to the Tavern, a Reliſhing Soop Preparative to a freſh Debauch: For when People have ſwill'd themſelves with a Morning draught of more Ale than a Brewars Horſe can carry, hither they come for a Penny Worth of Settles brain, where they are ſure to meet enew Lazy Pragmatical Companions;
+<pb facs="tcp:56388:3"/>that reſort here to prattle of News, that they neither underſtand, nor are concern'd in: And after an Hours impertinent Chat, begin to conſider a Bottle of Claret would do Excellent well before Dinner, Whereupon to the Buſh they all March together, till every one of them is as Drunk as a Drum, and then back again to the <hi>Coffee-Houſe</hi> to drink themſelves Sober; Where three or four Diſhes a peice, and smoaking, makes their Throats as dry as Mount AEtna enflamed with Brimſtone: So that they muſt away to the next <hi>Red Lattice,</hi> to quench them with a dozen or two of Ale, which at laſt grow<g ref="char:EOLunhyphen"/>ing Nauſeous, one of them begins to extol the Blood of the Grape, what rate Lampoon, and Racy Canary may be had at the <hi>Mytre:</hi> Say's thou ſo? cry's another, <hi>Let's then go and repleniſh therewith our Earthen Veſſels:</hi> So once more they troop to the Sack-ſhop, till they are Drunker than before; And then by a Retrograde Motion, ſtagger back to Soberize themſelves with Coffee. Thus like <hi>Tinnis Balls</hi> between too Rackets, The <hi>Fopps</hi> our Husbands are Ban<g ref="char:EOLunhyphen"/>dred too and fro all Day between the <hi>Coffee-Houſe</hi> and <hi>Tavern,</hi> whilſt we poor Souls ſit Weeping all alone till Twelve at Night, and when at laſt they come to Bed, ſmoakt like a <hi>Weſt-Phalia Hogs head,</hi> we have no more comfort of them than from a <hi>Shotten Herring</hi> or a dryed <hi>Bulruſh;</hi> Which forces us to make up this Lamentation, and Sing.</p>
+            <q>
+               <l>Tom Farthing, Tom Farthing, where haſt thou been, Tom Farthing?</l>
+               <l>Twelve a Cloak e're you come in, Two a Cloak e're you begin,</l>
+               <l>And then at laſt can do nothing: <hi>VVould make a VVoman weary, would make a VVoman weary,</hi> &amp;c.</l>
+            </q>
+            <p>WHEREFORE, the Premiſſes conſidered, and to the end that our Juſt Rights may be reſtored, and all the Ancient Priviledges of our Sex pre<g ref="char:EOLhyphen"/>ſerved Inviolable; That our Husbands may give us ſome other Teſtimo<g ref="char:EOLunhyphen"/>nies of their being Men, beſides their Beards, and wearing of Empty <hi>Pantal<g ref="char:EOLunhyphen"/>oons:</hi> That they no more run the hazard of being <hi>Cuckol'd</hi> by <hi>Dildo's:</hi> But returning to the good old ſtrengthning Liquors of our Forefathers; That Natures Exchequer may once again be Repleniſht, and a Race of Luſty Hero's beget, able by their Archievements, to equal the Glory's of our Anceſtors.</p>
+            <p>WE <hi>Humbly Pray,</hi> That our Truſty Patrons would improve your Inte<g ref="char:EOLhyphen"/>reſt, That henceforth the Drinking <hi>COFFEE,</hi> may in ſevere Penalties be forbidden to all Perſons under the Age of Threeſcore; And that inſtead thereof, <hi>Luſty napper Beer; Cock Ale, Cordial Canary's,</hi> Reſtoring <hi>Malago</hi>'s, and <hi>Back recruiting Chochalet,</hi> be Recommended to General Uſe, throughout the <hi>
+                  <g ref="char:V">Ʋ</g>topian</hi> Territories.</p>
+            <p>
+               <hi>In Hopes of which</hi> Glorious Reformation, <hi>Your</hi> Petitioners <hi>ſhall readily</hi> Proſtrate <hi>themſelves, and ever</hi> Pray, &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> A: VV: 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
